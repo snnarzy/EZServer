@@ -36,6 +36,7 @@ server-suggestions.
 • Malicious use of alts to give yourself an unfair advantage, disrupt the server, or to avoid bans is forbidden.
 
 
+
 Do not break these rules as you will be banned or kicked from the server. We take these rules serious.
 
 Make sure you read all the rules.
