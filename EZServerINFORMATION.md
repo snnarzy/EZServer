@@ -4,6 +4,7 @@
 EZServer GITHUB MORE :https://github.com/snnarzy/EZServer
 
 Permanent discord invite link - https://discord.gg/uJt7s3fZvW
+
 1 :
 • Anything disruptive to normal server usage is not tolerated. This includes spam, mic-spam, raiding, non-English chat, voice channel idling, impersonation, etc.
 
