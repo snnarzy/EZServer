@@ -1,5 +1,7 @@
 # EZServer https://discord.gg/uJt7s3fZvW
 🌟WELCOME TO OUR GITHUB PAGE🌟 
+
+
 1 :
 • Anything disruptive to normal server usage is not tolerated. This includes spam, mic-spam, raiding, non-English chat, voice channel idling, impersonation, etc.
 
@@ -44,20 +46,3 @@ Do not break these rules as you will be banned or kicked from the server. We tak
 Make sure you read all the rules •verify-rules-info🧾
 
 • Permanent invite link - https://discord.gg/uJt7s3fZvW
-
-• Rules last updated- 26/10/2022 ✅
-Invite Management
-BOT
- — 26/10/2022
-z88z
-Verification
-Click the button below to get verified
-99 — 26/10/2022
-🔼Press on the verify button to gain access to the rest of the server🔼!
-Sapphire
-BOT
- — Yesterday at 12:30
- 
-React to this message to assign yourself roles
-✅ - @Notifications ON
-❌ - @Notifications OFF
