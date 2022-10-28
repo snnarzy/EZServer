@@ -1,5 +1,6 @@
 # EZServer https://discord.gg/uJt7s3fZvW
 🌟WELCOME TO OUR GITHUB PAGE🌟 
+
 https://github.com/snnarzy/EZServer/blob/main/EZServerINFO.md
 
 1 :
