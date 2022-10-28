@@ -36,16 +36,10 @@ server-suggestions.
 10 :
 • Malicious use of alts to give yourself an unfair advantage, disrupt the server, or to avoid bans is forbidden.
 
-The main chat in this server is •main-chat.
-If you want to use bot commands, use them in this channel •bot-commands.
 
-You can check out •free-games🎰 for free games on Epic Games or Steam!
-Also check out popular game updates in this channel - •game-news🎮
-
-discussions - discuss with others!😀
 
 Do not break these rules as you will be banned or kicked from the server. We take these rules serious.
 
-Make sure you read all the rules •verify-rules-info🧾
+Make sure you read all the rules.
 
 • Permanent invite link - https://discord.gg/uJt7s3fZvW
