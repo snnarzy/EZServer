@@ -3,7 +3,6 @@
 
 EZServer GITHUB MORE :https://github.com/snnarzy/EZServer
 
-INFORMATION : https://github.com/snnarzy/EZServer/blob/main/EZServerINFO.md
 
 1 :
 • Anything disruptive to normal server usage is not tolerated. This includes spam, mic-spam, raiding, non-English chat, voice channel idling, impersonation, etc.
