@@ -42,4 +42,3 @@ Do not break these rules as you will be banned or kicked from the server. We tak
 
 Make sure you read all the rules.
 
-• Permanent invite link - https://discord.gg/uJt7s3fZvW
